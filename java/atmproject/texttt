@@ -1,0 +1,25 @@
+    package:atmproject
+
+
+    checking account=> vadesiz hesap
+    saving account => vadeli hesap
+
+    para cekme : withdraw
+    para yatirma : Deposit
+
+    double checkingBalance; checking icin bakiyemiz
+    double savingBalance; saving bakiyemiz
+
+    int accountNumber = hesap numarasi
+    int pinNumber = sifre
+
+    checkingBalance = 100
+
+    double paraIstiyorum = 50;
+                            100              50
+    checkingBalance  = checkingBalance - paraIstiyorum;
+
+    return checkingBalance
+
+
+
